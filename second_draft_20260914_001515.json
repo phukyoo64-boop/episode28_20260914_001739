@@ -1,0 +1,166 @@
+{
+  "timestamp": "20260914_001515",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "source": "phukyoo64-boop/28",
+  "drafts": [
+    {
+      "title": "The Tip and the Traitor",
+      "reasoning": "The source text introduces a character speaking as 'I', which is an unnamed narrator. This narrator is likely a key figure in the rebellion, given the content of the speech. The chunk involves the narrator, Jack (the revolutionary philosopher), the young rebel boy, and King Michael. The dramatic conflict is centered around the rebellion's plans and the impending betrayal or tip-off. The setting is a dimly lit cellar, where the young rebel prepares to take action.",
+      "scene": "A narrow, dimly lit cellar bathed in the faint light of a single oil lamp casts long shadows across the cobblestone floor. The air is thick with the musty scent of old wood and the faint tang of gunpowder. In the center of the room, a young rebel boy, dressed in patched clothing and with wild hair, stands with a slingshot in hand, his eyes fixed on a King's messenger dove fluttering weakly in his grip. The dove's wings flutter against his fingers, and the boy's determined expression shows the weight of his resolve.",
+      "dialogue": [
+        {
+          "character": "Narrator",
+          "line": "The tip is solid. I got it from Saint George himself. Yeah, just make it happen.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Young, prepare yourself. The time has come.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Young",
+          "line": "I'm ready. But what if they find out?",
+          "cast_type": "canonical",
+          "raw_name": "Young",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "They will find out, but we will be ready. We are the ones to take control of our destiny.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Hi, Treason. We were just trying to shred some good vibes, your majesty. Come on.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Young",
+          "line": "Fuck the throne. Fuck the throne, fuck the throne. It's time to overthrow the tyrant and forge a new path.",
+          "cast_type": "canonical",
+          "raw_name": "Young",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Young, focus. The people must understand. The broadcast is near.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Jack",
+        "Narrator",
+        "Young"
+      ]
+    }
+  ],
+  "voices": {
+    "generated_at": "20260914_001739",
+    "source_draft_repo": "phukyoo64-boop/2nddraft20260914_001515",
+    "source_draft_json": "second_draft_20260914_001515.json",
+    "source_draft_sha": "7d2bc992ec880c6ff4bc48b9f7dd1a61582e3a15",
+    "source_voice_repo": "phukyoo64-boop/28",
+    "source_zip": "characters.zip",
+    "char_map": {
+      "Narrator": "Narrator",
+      "Young": "Young",
+      "Jack": "Jack"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "The tip is solid. I got it from Saint George himself. Yeah, just make it happen.",
+        "file": "draft1_line001_Narrator.mp3",
+        "bytes": 37464
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Young, prepare yourself. The time has come.",
+        "file": "draft1_line002_Jack.mp3",
+        "bytes": 21696
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "Young",
+        "voice_dir": "Young",
+        "line": "I'm ready. But what if they find out?",
+        "file": "draft1_line003_Young.mp3",
+        "bytes": 17568
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "They will find out, but we will be ready. We are the ones to take control of our destiny.",
+        "file": "draft1_line004_Jack.mp3",
+        "bytes": 31872
+      },
+      {
+        "draft": 1,
+        "n": 5,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Hi, Treason. We were just trying to shred some good vibes, your majesty. Come on.",
+        "file": "draft1_line005_Narrator.mp3",
+        "bytes": 35256
+      },
+      {
+        "draft": 1,
+        "n": 6,
+        "character": "Young",
+        "voice_dir": "Young",
+        "line": "Fuck the throne. Fuck the throne, fuck the throne. It's time to overthrow the tyrant and forge a new path.",
+        "file": "draft1_line006_Young.mp3",
+        "bytes": 38880
+      },
+      {
+        "draft": 1,
+        "n": 7,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "Young, focus. The people must understand. The broadcast is near.",
+        "file": "draft1_line007_Jack.mp3",
+        "bytes": 39360
+      }
+    ]
+  }
+}
