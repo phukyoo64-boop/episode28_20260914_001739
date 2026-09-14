@@ -161,6 +161,10 @@
         "file": "draft1_line007_Jack.mp3",
         "bytes": 39360
       }
-    ]
+    ],
+    "video": {
+      "1": "draft1_combined.mp4"
+    },
+    "video_all": "am28.mp4"
   }
 }
